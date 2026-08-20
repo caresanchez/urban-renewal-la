@@ -13,14 +13,14 @@ url: 'http://localhost:8080'
 
 # ------------------------------------------------------------------------------
 # Title & Description
-title: New Deal Photography
-subtitle: The Works of Dorothea Lange and Walker Evans
+title: Blighted
+subtitle: Urban Renewal in Post-WWII Los Angeles 
 reading_line:
 short_title:
 
 description:
   one_line:
-  full: "In the 1930s, during America's worst financial crises, the administration of President Franklin D. Roosevelt employed photographers to document the plight of everyday folk in the Great Depression in order to push forward with their New Deal programs. Documentary photographers Dorothea Lange and Walker Evans were prolific frontrunners of these efforts and their extraordinary photographs continue to endure today. Their artistic and documentary mastery and historical importance provide key insight into a monumental turning point in American history."
+  full:
 
 # ------------------------------------------------------------------------------
 # Publication Details
@@ -46,15 +46,13 @@ publisher:
 contributor_as_it_appears:
 
 contributor:
-  - id: jkeller
+  - id: csanchez
     type: primary
-    first_name: Judith
-    last_name: Keller
-    title: Senior Curator of Photographs
+    first_name: Caroline
+    last_name: Sanchez
     affiliation: J. Paul Getty Museum
-    bio: "Judith Keller joined the J. Paul Getty Museum in 1986 and since 2008 was an Associate Curator of Photographs. In 2010, she was named the Senior Curator of Photographs. Keller received her B.A. in Art History and a Masters in Museum Practice and Art History from the University of Michigan at Ann Arbor. She also completed course work for a Phd. in Art History at the University of Michigan. Prior to her tenure at the Getty, Keller worked at The University of Michigan Museum of Art (1979 – 1981) and at the Archer M. Huntington Art Gallery (now the Blanton Museum of Art) at The University of Texas, Austin, as Curator of Prints and Drawings."
-    url: https://news.getty.edu/judith-keller-named-senior-curator-photographs-at-j-paul-getty-museum.htm
-    image: contributors/judith-keller.jpg
+    bio: "Caroline is a 2026 GMUI at Getty Publications in the Editorial department. She recently graduated from UCLA with a degree in Political Science and History (Go Bruins!) Born and raised in Los Angeles, this project is inspired by her interest in the city’s spatial development. During her downtime she likes to rate restaurants on Beli, start TV shows she’ll never finish, and read new books (that she does finish)."
+    image: contributor_image.jpg
 
 # ------------------------------------------------------------------------------
 # Copright & License

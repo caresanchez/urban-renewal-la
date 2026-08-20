@@ -1,128 +1,79 @@
 figure_list:
 
-  - id: "lange"
-    src: figures/lange.jpg
-    caption: "*Dorothea Lange, Resettlement Administration photographer, in California*, 1936."
-    credit: "Library of Congress Prints and Photographs Division"
-    alt: "Shot low and looking up at an old model car on a dirt row with a hill behind. A woman sits on the roof of the car holding a large camera and smiling."
+  - id: "aerial-downtown"
+    src: "aerial-downtown-la.jpg"
+    caption: "Aerial view of downtown Los Angeles, showing Bunker Hill, the civic center, and the Harbor Freeway, 1973, detail 3."
+    credit: University of Southern California Libraries / California Historical Society. Digitally reproduced by USC Digital Library
 
-  - id: "evans"
-    src: figures/evans.jpg
-    caption: "*Walker Evans, profile, hand up to face*, 1937."
-    credit: "Library of Congress Prints and Photographs Division"
-    alt: "A seated man looking away to the left, his hand at his cheek, his hair mussed, a slight worried expression on his face."
+  - id: "bel-air"
+    src: "bel_air_survey.jpg"
+    caption: "Area Description of Bel-Air, Holmby Hills, Beverly Estates. Security Grade 1st+."
+    credit: Mapping Inequality, public domain image. 
+    alt: 
 
-  - id: "fig-1"
-    label: "Figure 1"
-    src: figures/evans-legionnaire.jpg
-    caption: "Walker Evans. *[American Legionnaire]*, 1935."
-    credit: "The J. Paul Getty Museum, Los Angeles"
-    alt: "A man, from the chest up, in a decorated uniform turned to look at the camera. Other men in similar attire talk amongst one another in the background."
+  - id: "blight-cover"
+    src: "blight-cover.jpg"
+    caption: Bunker Hill Redevelopment Area Cleared for New Construction, [Community Redevelopment Agency, Downtown Project, Bunker Hill aerial view looking east toward Dorothy Chandler Pavillion].
+    credit: © J. Paul Getty Trust. Getty Research Institute, Los Angeles (2004.R.10)
 
-  - id: "fig-2"
-    label: "Figure 2"
-    src: figures/evans-sons.jpg
-    caption: "Walker Evans. *Sons of the American Legion, Bethlehem, Pennsylvania*, 1935."
-    credit: "The J. Paul Getty Museum, Los Angeles"
-    alt: "Three boys standing in matching pants, white shirts, dark ties, and hats. Two look at the camera, unamused, the other’s attention is elsewhere."
+  - id: "boyle-heights"
+    src: "boyle-heights-survey.jpg"
+    caption: "Area Description of Boyle Heights. Security Grade 4th."
+    credit: Mapping Inequality, public domain image.
+    alt:
 
-  - id: "fig-3"
-    label: "Figure 3"
-    src: figures/evans-graveyard.jpg
-    caption: "Walker Evans. *Graveyard, Houses and Steel Mill, Bethlehem, Pennsylvania*, 1935; printed later."
-    credit: "The J. Paul Getty Museum, Los Angeles"
-    alt: "A large stone cross in the foreground, with smaller grave markers receding behind. Further back are brick row houses and behind them a row of factory towers which stretch across most of the top of the frame."
+  - id: "bunkerhill-cleared"
+    src: "bunker-hill-cleared-area.jpg"
+    caption: Bunker Hill Redevelopment Area Cleared for New Construction, [Community Redevelopment Agency, Downtown Project, Bunker Hill- aerial view looking east toward Dorothy Chandler Pavillion].
+    credit: © J. Paul Getty Trust. Getty Research Institute, Los Angeles (2004.R.10)
 
-  - id: "fig-4"
-    label: "Figure 4"
-    src: figures/evans-hymns.jpg
-    caption: "Walker Evans. *Alabama Tenant Farmer Family Singing Hymns / The Tengle Family, Hale County, Alabama*, 1936."
-    credit: "The J. Paul Getty Museum, Los Angeles"
-    alt: "A small group of people standing in front of a doorway and rough wooden wall of a building, looking at a book in one man's hands and singing. Other figures are cropped out along the edges."
+  - id: "cr1"
+    src: "chavez-ravine-1.jpg"
+    caption: Chavez Ravine (Los Angeles, Calif.), Julius Shulman photography archive.
+    credit: ©J. Paul Getty Trust. Getty Research Institute, Los Angeles (2004.R.10)
 
-  - id: "fig-5"
-    label: "Figure 5"
-    src: figures/evans-burroughs.jpg
-    caption: "Walker Evans. *Floyd and Lucille Burroughs, Hale County, Alabama*, 1936."
-    credit: "The J. Paul Getty Museum, Los Angeles"
-    alt: "A man sitting in a doorway and a young woman beside him in a chair, both barefoot, on the porch of a wooden house."
+  - id: "cr-demo"
+    src: "chavez-ravine-demolition.jpg"
+    caption: Chavez Ravine, Demolition of Housing, Leonard Nadel photographs and other material relating to housing and urban redevelopment in Los Angeles, 1947-1997. 
+    credit: © J. Paul Getty Trust. The Getty Research Institute, Los Angeles (2002.M.42)
 
-  - id: "lange-house"
-    src: figures/lange-house.jpg
-    caption: "Dorothea Lange. *Abandoned Dust Bowl Home*, about 1935–1940."
-    credit: The J. Paul Getty Museum, Los Angeles
-    alt: "An abandoned-looking wooden shack darkly colored and standing straight against a light, empty expanse of sparsely vegetated dessert and cloudy sky."
+  - id: "intersect-free"
+    src: "intersection-of-freeways.jpg" 
+    caption: Intersection of freeways, Miscellaneous Los Angeles scenes (Los Angeles, Calif.), Julius Shulman photography archive.
+    credit: ©J. Paul Getty Trust. Getty Research Institute, Los Angeles (2004.R.10)
 
-  - id: "vid-1"
-    poster: figures/evans-video-still.jpg
-    media_id: BpGN0UUtqqU
-    media_type: youtube
-    label: "Video 1"
-    caption: "A selection of Walker Evans photos from the across the United States of America, 1930s."
-    credit: The J. Paul Getty Museum, Los Angeles
-    alt: "A narrow, unmarked paved road stretching away diagonally from the bottom right. On one side a row of houses and multi-pronged telegraph or electrical poles, on the other side a gas station sign and single car and figure."
+  - id: "e-street"
+    src: "e-eight-street.jpg"
+    caption: E 8th Sreet (Santa Fe), Leonard Nadel Miscellaneous papers, 1948-1990 (bulk 1948-1955). 
+    credit: ©J. Paul Getty Trust. Research Library, The Getty Research Institute, Los Angeles, California (2002.M.42)
 
-  - id: "table-1"
-    src: "tables/evans-works.html"
-    media_type: table
+  - id: "watts"
+    src: "watts_survey.jpg"
+    caption: "Area Description of Watts. Security Grade 4th-."
+    credit: Mapping Inequality, public domain image.
+    alt: 
 
-  - id: "audio-1"
-    media_id: "748443409"
-    media_type: soundcloud
-    label: "Audio 1"
-    caption: "*Modern Art Notes Podcast*, episode 429, “Dorothea Lange, Soul of a Nation,” hosted by Tyler Green, https://soundcloud.com/manpodcast/ep429."
+  - id: "holc"
+    src: "holc.jpg"
+    caption: 1939 HOLC "redlining" map of central Los Angeles.
+    credit: Mapping Inequality, public domain image.
 
-  - id: "cat-1"
-    src: figures/lange-mother-a.jpg
-    caption: "Dorothea Lange, *Human Erosion in California / Migrant Mother*, 1936."
-    credit: The J. Paul Getty Museum, Los Angeles
-    download: true
-    zoom: true
-    alt: "Close in shot of a mother with her hand to her cheek, two children pressed against either side but turned away, a baby just visible on her lap."
+  - id: "panview-bunker"
+    src: "panoramic-view-bh.jpg"
+    caption: Panoramic view of Hill Street and Third Street looking west from City Hall, Los Angeles ca.1900.
+    credit: USC Libraries Special Collections / California Historical Society, Digitally reproduced by USC Digital Library
 
-  - id: "mother-variants"
-    label: "Figure 1.1"
-    caption: "Alternate versions of Dorothea Lange’s *Migrant Mother*, 1936."
-    credit: "Library of Congress Prints and Photographs Division"
-    annotations:
-      - input: radio
-        items:
-        - src: figures/lange-mother-b.jpg
-          label: "Variant #1"
-        - src: figures/lange-mother-c.jpg
-          label: "Variant #2"
+  - id: "slum-1"
+    src: "slums-1.jpg"
+    caption: Slums, Leonard Nadel miscellaneous papers, 1948-1990 (bulk 1948-1955)
+    credit: ©J. Paul Getty Trust. Research Library, The Getty Research Institute, Los Angeles, California (2002.M.42)
 
-  - id: "mother-annotations"
-    src: "figures/lange-layers/base.jpg"
-    zoom: true
-    label: "Figure 1.2"
-    caption: "This version of the print from the Library of Congress Prints and Photographs Division is mounted on paper board and includes an original FSA label. Note too the thumb seen in the lower right corner. It is also visible in the Getty‘s print, but Lange’s negative was later retouched to remove the thumb and in later prints, it is only a ghostly shadow."
-    annotations:
-      - input: checkbox
-        items:
-          - src: "figures/lange-layers/original-label.png"
-            selected: true
-          - src: "figures/lange-layers/additional-label.png"
-          - src: "figures/lange-layers/scratches.png"
-          - src: "figures/lange-layers/thumb.png"
-            selected: true
+  - id: "cr-view-1"
+    src: "view-of-chavez-ravine.jpg"
+    caption: View of Chavez Ravine, Leonard Nadel photographs and other material relating to housing and urban redevelopment in Los Angeles, 1947-1997.
+    credit: © J. Paul Getty Trust. The Getty Research Institute, Los Angeles (2002.M.42)
 
-  - id: "cat-2"
-    src: figures/evans-fields-family-a.jpg
-    caption: "Walker Evans, *Bud Fields with His Wife Ivy, and His Daughter Ellen, Hale County, Alabama*, 1936."
-    credit: The J. Paul Getty Museum, Los Angeles
-    download: true
-    zoom: true
-    alt: "A woman seated in a bed nursing a child, a man on a chair beside them, in a room with plain wooden floor and walls, both barefoot and staring at the camera."
-
-  - id: "cat-2-b"
-    src: figures/evans-fields-family-b.jpg
-    caption: "Walker Evans, *Sharecropper's Family, Hale County, Alabama / Bud Fields and His Family, Hale County, Alabama / Bud Woods and His Family*, 1936."
-    credit: The J. Paul Getty Museum, Los Angeles
-    alt: "Parents and four children of varying ages, seated and posing for the camera in a room with plain wooden floor and walls."
-
-  - id: "cat-2-c"
-    src: figures/evans-bud-fields.jpg
-    caption: "Walker Evans, * [William Edward (Bud) Fields, A Cotton Sharecropper, Hale County, Alabama]/[Bud Woods, Tenant Farmer]*, 1936."
-    credit: The J. Paul Getty Museum, Los Angeles
-    alt: "Portrait of a bare-chested moustached man, with a patterned bandana draped over his shoulders, photographed from the chest up, staring straight into the camera."
+  - id: "cr-view-2"
+    src: "view-of-chavez-ravine-2.jpg"
+    caption: View of Chavez Ravine, Leonard Nadel photographs and other material relating to housing and urban redevelopment in Los Angeles, 1947-1997.
+    credit: © J. Paul Getty Trust. The Getty Research Institute, Los Angeles (2002.M.42)

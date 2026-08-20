@@ -4,7 +4,6 @@ layout: cover
 order: 1
 menu: false
 toc: false
-image: spiral-overlay.png
+image: blight-cover.jpg
 ---
-
-In the 1930s, during America's worst financial crises, the administration of President Franklin D. Roosevelt employed photographers to document the plight of everyday folk in the Great Depression in order to push forward with their New Deal programs. Documentary photographers Dorothea Lange and Walker Evans were prolific frontrunners of these efforts and their extraordinary photographs continue to endure today. Their artistic and documentary mastery and historical importance provide key insight into a monumental turning point in American history.
+This publication is an investigation of post-WWII (1945-1960s) urban renewal programs in Los Angeles and their disproportionate impact on minority communities. To facilitate economic growth, construction of the new city was shaped along racial and economic lines. Urban renewal programs deliberately shaped Los Angeles’ spatial configuration into what we know it as today.  

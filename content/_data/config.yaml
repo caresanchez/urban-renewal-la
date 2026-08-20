@@ -29,7 +29,7 @@ bylineFormat: name-title # initials | name | name-title | string | false
 
 bibliography:
   displayOnPage: true
-  displayShort: true
+  displayShort: false
   heading: Bibliography
 
 citations:
