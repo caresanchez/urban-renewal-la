@@ -17,7 +17,7 @@ figure_list:
     credit: © J. Paul Getty Trust. Getty Research Institute, Los Angeles (2004.R.10)
 
   - id: "boyle-heights"
-    src: "boyle-heights-survey.jpg"
+    src: "boyle_heights_survey.jpg"
     caption: "Area Description of Boyle Heights. Security Grade 4th."
     credit: Mapping Inequality, public domain image.
     alt:
